@@ -106,9 +106,7 @@ This project was created to practice and strengthen frontend development concept
 - Responsive web design
 - E-commerce functionality
 
-## 📚 Credits
 
-A special thanks to **SuperSimpleDev** for the JavaScript tutorials and guidance that helped me learn and understand the JavaScript concepts used while building this project.
 
 ## ⚠️ Disclaimer
 
