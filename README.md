@@ -2,36 +2,40 @@
 
 A responsive Amazon e-commerce website clone built using **HTML, CSS, and JavaScript**. This project recreates the core shopping experience of Amazon, including product browsing, cart management, checkout, order history, and order tracking.
 
+## 🌐 Live Website
+
+**[View the Amazon Clone Live](https://dexter-1280.github.io/Amazon-clone/)**
+
 ## 🚀 Features
 
-* 🛍️ Product listing and browsing
-* 🔎 Search bar interface
-* ⭐ Product ratings and review counts
-* 🛒 Add products to cart
-* 🔢 Select product quantity
-* 💰 Dynamic cart quantity and pricing
-* 📦 Checkout page
-* 🧾 Order summary
-* 📋 Order history
-* 🚚 Order tracking page
-* 📱 Responsive design
-* 💾 Product and cart data management
-* 🎨 Amazon-inspired UI
+- 🛍️ Product listing and browsing
+- 🔎 Search bar interface
+- ⭐ Product ratings and review counts
+- 🛒 Add products to cart
+- 🔢 Select product quantity
+- 💰 Dynamic cart quantity and pricing
+- 📦 Checkout page
+- 🧾 Order summary
+- 📋 Order history
+- 🚚 Order tracking page
+- 📱 Responsive design
+- 💾 Product and cart data management
+- 🎨 Amazon-inspired UI
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript (ES6 Modules)
-* JSON
-* Google Fonts
+- HTML5
+- CSS3
+- JavaScript (ES6 Modules)
+- JSON
+- Google Fonts
 
 ## 📂 Project Structure
 
 ```text
 Amazon-clone/
 │
-├── amazon.html
+├── index.html
 ├── checkout.html
 ├── orders.html
 ├── tracking.html
@@ -92,15 +96,15 @@ The main product page dynamically generates product cards using JavaScript and u
 
 This project was created to practice and strengthen frontend development concepts including:
 
-* DOM manipulation
-* JavaScript modules
-* Event listeners
-* Arrays and objects
-* Dynamic HTML generation
-* Data handling
-* CSS layouts
-* Responsive web design
-* E-commerce functionality
+- DOM manipulation
+- JavaScript modules
+- Event listeners
+- Arrays and objects
+- Dynamic HTML generation
+- Data handling
+- CSS layouts
+- Responsive web design
+- E-commerce functionality
 
 ## 📚 Credits
 
