@@ -2,9 +2,7 @@
 
 A responsive Amazon e-commerce website clone built using **HTML, CSS, and JavaScript**. This project recreates the core shopping experience of Amazon, including product browsing, cart management, checkout, order history, and order tracking.
 
-## 🌐 Live Website
 
-**[View the Amazon Clone Live](https://dexter-1280.github.io/Amazon-clone/)**
 
 ## 🚀 Features
 
